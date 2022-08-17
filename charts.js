@@ -153,9 +153,23 @@ var metadata = data.metadata;
    
     
     // 4. Create the trace for the gauge chart.
-    var gaugeData = [
-     
-    ];
+    var gaugeData = {
+      value: washingFreq,
+      title: {text: "Belly Button Washing Frequency<br>Scrubs per Week"},
+      type: "indicator",
+      mode: "gauge+number",
+      gauge: {
+        axis: {range: [0, 10], dtick: 2},
+        bar: {color: "black"},
+        steps: [
+          {range: [0,2], color:"red"},
+          {range: [2,4], color:"orange"},
+          {range: [4,6], color:"yellow"},
+          {range: [6,8], color:"yellowgreen"},
+          {range: [8,10], color:"green"},
+          ]
+          },
+    };
     
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = { 
