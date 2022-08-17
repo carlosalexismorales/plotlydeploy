@@ -172,8 +172,8 @@ var metadata = data.metadata;
     };
     
     // 5. Create the layout for the gauge chart.
-    var gaugeLayout = { 
-     
+    var gaugeLayout = {
+      width: 350, height: 400, margin: {t: 0, b: 0}
     };
 
     // 6. Use Plotly to plot the gauge data and layout.
