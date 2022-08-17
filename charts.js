@@ -141,7 +141,10 @@ var metadata = data.metadata;
     var washingFreq = parseInt(metaResult.wfreq);
 
     // Create the yticks for the bar chart.
-
+    var yticks = otuIDs.slice(0,10).reverse().map(function (elem) {return `OTU ${elem}`});
+    var xticks = sampleVals.slice(0,10).reverse();
+    var labels = otuLabs.slice(0,10).reverse();
+    
     // Use Plotly to plot the bar data and layout.
     Plotly.newPlot();
     
