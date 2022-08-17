@@ -131,7 +131,8 @@ var metadata = data.metadata;
   
 
     // 2. Create a variable that holds the first sample in the metadata array.
-    
+    var metaResult = metadataArray[0];
+
 
     // Create variables that hold the otu_ids, otu_labels, and sample_values.
 
