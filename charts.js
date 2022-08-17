@@ -138,7 +138,8 @@ var metadata = data.metadata;
 
 
     // 3. Create a variable that holds the washing frequency.
-   
+    var washingFreq = parseInt(metaResult.wfreq);
+
     // Create the yticks for the bar chart.
 
     // Use Plotly to plot the bar data and layout.
