@@ -25,6 +25,8 @@ For this project, a dashboard is created with a focus on visualization and inter
 
 ### How is the webpage displayed and interactive?
 
+Clicking the following link will take you to the webpage: https://carlosalexismorales.github.io/plotlydeploy/
+
 
 
 In the images below, we see how the webpage is displayed full-screen with the research that holds data of 153 individuals which includes: 
