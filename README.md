@@ -27,9 +27,30 @@ For this project, a dashboard is created with a focus on visualization and inter
 
 
 
+
+<img width="1438" alt="Screen Shot 2022-08-17 at 6 47 16 PM" src="https://user-images.githubusercontent.com/102444078/185274155-d208a3de-af34-41b8-ae9b-a9ab6e621473.png">
+
+
+
+
+
+<img width="1437" alt="Screen Shot 2022-08-17 at 6 47 43 PM" src="https://user-images.githubusercontent.com/102444078/185274218-726c0b00-ba19-467d-bb2b-70e850830fc3.png">
+
+
+
+
+
+
+
+
+<img width="1437" alt="Screen Shot 2022-08-17 at 6 48 12 PM" src="https://user-images.githubusercontent.com/102444078/185274267-fd882574-8fc2-468b-b3cb-fb9c94347151.png">
+
+
+
+
+
+
+
 ## Summary
 
-1. The school's ranking dropped from 2nd, down to the bottom 5
-2. Relacing the 9th graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to fall
-4. The district had its average math and reading scores and overall passing percentage decrease
-5. The overall passing rate for Thomas High School fell to 65% from 91% - a 27% difference 
+1. 
