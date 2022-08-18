@@ -27,6 +27,10 @@ For this project, a dashboard is created with a focus on visualization and inter
 
 
 
+In the images below, we see how the webpage is displayed full-screen. 
+
+
+
 
 <img width="1438" alt="Screen Shot 2022-08-17 at 6 47 16 PM" src="https://user-images.githubusercontent.com/102444078/185274155-d208a3de-af34-41b8-ae9b-a9ab6e621473.png">
 
