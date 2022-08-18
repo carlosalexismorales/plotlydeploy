@@ -52,6 +52,18 @@ In the images below, we see how the webpage is displayed full-screen.
 
 
 
+In the images below, we see how the interactivity of the webpage when we choose a different option from the drop-down menu.
+
+
+
+
+
+
+
+<img width="1250" alt="Screen Shot 2022-08-17 at 6 53 35 PM" src="https://user-images.githubusercontent.com/102444078/185274912-25db7c7b-e877-45e7-adf5-de290ad69605.png">
+
+
+
 
 
 
