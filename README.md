@@ -72,6 +72,4 @@ In the images below, we see how the interactivity of the webpage when we choose 
 
 
 
-## Summary
 
-1. 
