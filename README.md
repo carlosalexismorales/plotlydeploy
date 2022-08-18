@@ -40,10 +40,10 @@ For this project, a dashboard is created with a focus on visualization and inter
 
 
 
+<img width="1440" alt="Screen Shot 2022-08-17 at 6 49 14 PM" src="https://user-images.githubusercontent.com/102444078/185274388-4d2c4f1e-9060-4236-9391-b8cd130cf17d.png">
 
 
 
-<img width="1437" alt="Screen Shot 2022-08-17 at 6 48 12 PM" src="https://user-images.githubusercontent.com/102444078/185274267-fd882574-8fc2-468b-b3cb-fb9c94347151.png">
 
 
 
