@@ -27,7 +27,12 @@ For this project, a dashboard is created with a focus on visualization and inter
 
 
 
-In the images below, we see how the webpage is displayed full-screen. 
+In the images below, we see how the webpage is displayed full-screen with the research that holds data of 153 individuals which includes: 
+
+-  Unique and anonyms ID
+-  Demographic information
+-  Belly button scrubbing frequency
+-  Belly button biological footprint
 
 
 
